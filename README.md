@@ -1,2 +1,2 @@
-# Multi-Threaded-Bank-Transaction
-Speedup of Bank Transaction using Multi Threading
+# Multi-Threaded-Bank-Transactions
+Speedup of Bank Transactions using Multi Threading
